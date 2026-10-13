@@ -186,8 +186,8 @@
         <h1 class="header-title">دعوة زفاف</h1>
         
         <p class="family-text">
-            تتشرف <b>عائلة مصطفى (العريس)</b><br>
-            و <b>عائلة فتيان (العروس)</b><br>
+            تتشرف <b>آل مصطفى</b><br>
+            و <b>آل فتيان </b><br>
             بدعوتكم لحضور حفل زفاف أبنائهم
         </p>
 
@@ -199,7 +199,7 @@
 
         <div class="details-box">
             <p>🗓 <b>اليوم والتاريخ:</b> الاثنين <span class="highlight">19-10-2026</span></p>
-            <p>⏰ <b>الوقت:</b> من <span class="highlight">7:30 مساءً</span> إلى <span class="highlight">11:00 مساءً</span></p>
+            <p>⏰ <b>الوقت:</b> من <span class="highlight">8:30 مساءً</span> إلى <span class="highlight">11:00 مساءً</span></p>
             <p>📍 <b>المكان:</b> فندق سراج - جبل الحسين</p>
             <p style="font-size: 0.9rem; color: #b3a0a4;">(بجانب مستشفى الكندي)</p>
         </div>
