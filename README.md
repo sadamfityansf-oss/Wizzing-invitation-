@@ -190,7 +190,6 @@
             و <b>آل فتيان </b><br>
             بدعوتكم لحضور حفل زفاف أبنائهم
         </p>
-
         <div class="names-wrapper">
             <div class="couple-names">مصطفى</div>
             <span class="ampersand">&</span>
